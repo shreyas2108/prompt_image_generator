@@ -1,4 +1,4 @@
-Prompt Image Generator using Stable Diffusion and Hugging Face
+Prompt Image Generator using Stable Diffusion
 
 
 
